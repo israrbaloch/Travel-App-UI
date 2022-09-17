@@ -65,7 +65,7 @@
                 android:layout_marginTop="15dp"
                 android:layout_marginBottom="15dp"
                 android:background="#5B628F"
-                android:backgroundTint="#DDD5F3"
+                android:backgroundTint="#332E52"
                 app:cardCornerRadius="30dp">
 
                 <TextView
@@ -73,7 +73,7 @@
                     android:layout_height="match_parent"
                     android:gravity="center"
                     android:text="Watch Video"
-                    android:textColor="@color/black"
+                    android:textColor="@color/white"
                     android:textSize="20sp"
                     android:textStyle="bold"></TextView>
             </com.google.android.material.card.MaterialCardView>
